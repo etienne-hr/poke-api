@@ -203,9 +203,4 @@ allPokemonOnScreen.addEventListener('click', () =>
     allPokemonOnScreen.classList.add('starter-hidden')
 })
 
-console.log(pokemonWeight)
-console.log(pokemonHeight)
-console.log(pokemonHp)
-console.log(pokemonTypeOne)
-console.log(pokemonTypeTwo)
-console.log(pokemonImage)
+
